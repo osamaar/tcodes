@@ -1,0 +1,11 @@
+reference/
+*.dSYM/
+.DS_Store
+test
+*.exe
+*.o
+*.lib
+*.so
+*.dll
+*.dylib
+
